@@ -3,3 +3,5 @@
 Adds checkbox states to the context menu when right clicking a task in Obsidian, primarily for use with [Minimal](https://github.com/kepano/obsidian-minimal) and [Things](https://github.com/colineckert/obsidian-things).
 
 See [Lucide](https://lucide.dev/) for icons.
+
+![menu screenshot](/assets/screen.png "menu screenshot")
